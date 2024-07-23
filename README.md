@@ -13,5 +13,6 @@ Here is a short video demonstrating the project in action:<br>
 
 <h3>Contact</h3>
 If you want to buy the script contact me<br>
+<h2>Special Price $450</h2>
 <br>
 Telegram: https://t.me/whaletoday
