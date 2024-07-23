@@ -9,6 +9,7 @@ Here is a short video demonstrating the project in action:<br>
 <li> Live Panel Telegram</li>
 <li> Live in the Panel Users Administrator</li>
 <li> Result to Telegram or Email</li>
+<li> And we know Victim Activities</li>
 <li> And more page you needed</li>
 
 <h3>Contact</h3>
