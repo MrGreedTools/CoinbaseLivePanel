@@ -14,7 +14,7 @@ Here is a short video demonstrating the project in action:<br>
 
 <h3>Contact</h3>
 If you want to buy the script contact me<br>
-<code style="color : green">Special Price $450</code>
+<code style="color : green">Special Price $370</code>
 <br>
 Telegram: https://t.me/whaletoday
 
